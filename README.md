@@ -34,7 +34,7 @@ choose a pickle
 ![image](https://github.com/noadrow/MultiModalDis/assets/105928017/3219c6c2-4300-48f9-ba13-bcf12a4cadb3)
 choose a CpG list (lilifores.py output)
 ![image](https://github.com/noadrow/MultiModalDis/assets/105928017/f61ca4be-9c4e-4fab-989b-816c000ae51d)
-results would be saved to the same lication as the input file.
+results would be saved to the same location as the input file.
 the output contains a CpG list(.txt) and a table with number of peaks (.csv).
 
 # Output:
